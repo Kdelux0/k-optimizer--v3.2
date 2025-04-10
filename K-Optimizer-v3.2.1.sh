@@ -24,6 +24,9 @@ ascii_art() {
   echo "╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝  ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝"
   echo -e "${yellow}             K-Optimizer v3.2 - K-CORE Edition${reset}"
   echo
+# Informações do usuário
+usuario="Kaio Neves Castilho"
+echo -e "${yellow}$usuario${reset}"
 }
 
 # Painel de status
